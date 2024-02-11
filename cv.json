@@ -1,0 +1,199 @@
+{
+  "basics": {
+    "name": "Iván Torres Domínguez",
+    "label": "Full Stack Developer con más de 6 años de experiencia",
+    "image": "",
+    "email": "hi@itores.dev",
+    "phone": "",
+    "url": "https://itorres.dev",
+    "summary": "Más de 6 años de experiencia en el desarrollo web. Apasionado por el trabajo en equipo. Altamente motivado por aprender y crecer profesionalmente. Disfruto implementando mejoras que optimicen el rendimiento y la experiencia de usuario.",
+    "location": {
+      "address": "",
+      "postalCode": "29680",
+      "city": "Estepona",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Iván Torres Domínguez",
+        "url": "www.linkedin.com/in/ivan-torres-dominguez"
+      },
+      {
+        "network": "GitHub",
+        "username": "torresgol10",
+        "url": "https://github.com/torresgol10"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Inmoba Networks",
+      "position": "Senior Full Stack",
+      "url": null,
+      "startDate": "2017-07-01",
+      "endDate": null,
+      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "LemonCode",
+      "url": "https://lemoncode.net/",
+      "area": "Master Rront Dnd",
+      "studyType": "Master",
+      "startDate": "2023-09-21",
+      "endDate": null,
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "I.E.S. Mar de Alborán",
+      "url": "https://maralboran.eu/",
+      "area": "Técnico Superior en Desarrollo de Aplicaciones Web",
+      "studyType": null,
+      "startDate": "2015-09-15",
+      "endDate": "2017-06-22",
+      "score": "4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Boostrap Class Autocomplete",
+      "isActive": true,
+      "description": "Extension de VS code para autocompletar las clases de Boostrap",
+      "highlights": ["Más de 19K descargas"],
+      "url": "https://marketplace.visualstudio.com/items?itemName=torresgol10.bootstrap-class-autocomplete"
+    }
+  ]
+}
