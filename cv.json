@@ -193,7 +193,8 @@
       "isActive": true,
       "description": "Extension de VS code para autocompletar las clases de Boostrap",
       "highlights": ["Más de 19K descargas"],
-      "url": "https://marketplace.visualstudio.com/items?itemName=torresgol10.bootstrap-class-autocomplete"
+      "url": "https://marketplace.visualstudio.com/items?itemName=torresgol10.bootstrap-class-autocomplete",
+      "github": null
     }
   ]
 }
