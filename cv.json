@@ -53,7 +53,7 @@
     {
       "institution": "LemonCode",
       "url": "https://lemoncode.net/",
-      "area": "Master Rront Dnd",
+      "area": "Master Front End",
       "studyType": "Master",
       "startDate": "2023-09-21",
       "endDate": null,
@@ -192,7 +192,7 @@
       "name": "Boostrap Class Autocomplete",
       "isActive": true,
       "description": "Extension de VS code para autocompletar las clases de Boostrap",
-      "highlights": ["Más de 19K descargas"],
+      "highlights": ["Más de 20K descargas"],
       "url": "https://marketplace.visualstudio.com/items?itemName=torresgol10.bootstrap-class-autocomplete",
       "github": null
     }
